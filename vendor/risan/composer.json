@@ -1,0 +1,33 @@
+{
+  "name": "risan/sentiment-analysis",
+  "type": "library",
+  "description": "Sentiment analysis library for PHP.",
+  "keywords": ["sentiment", "analysis", "opinion", "mining"],
+  "homepage": "https://github.com/risan/sentiment-analysis",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Risan Bagja Pradana",
+      "email": "risanbagja@gmail.com",
+      "homepage": "https://github.com/risan",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SentimentAnalysis\\": "src/"
+    }
+  },
+  
+  "require": {
+        "php": ">=5.3",
+        "sastrawi/sastrawi": "^1",
+        "risan/sentiment-analysis": "^0"
+		
+    },
+	"require-dev": {
+		"theseer/tokenizer": "^1.1",
+		"sastrawi/tokenizer": "^0.4.0",
+		"phpunit/phpunit": "~4.8"
+	}
+}
