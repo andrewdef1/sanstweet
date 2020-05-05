@@ -1,6 +1,0 @@
-{
-    "require": {
-        "sastrawi/sastrawi": "^1",
-        "abraham/twitteroauth": "^1.1"
-    }
-}
