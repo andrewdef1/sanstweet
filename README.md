@@ -4,4 +4,4 @@
 
 
 # Andrew Patrick de Fretes, CV/Resume
-![Andrew Patrick de Fretes, CV/Resume](https://serving.photos.photobox.com/90459389970af6bc75384656dcc107b57e0bf4357af771e2fa6ff19c628c037b811c0b7b.jpg)
+![Andrew Patrick de Fretes, CV/Resume](https://github.com/andrewdef1/sanstweet/blob/master/drew-Resume-blue%20-%20blur.jpg)
